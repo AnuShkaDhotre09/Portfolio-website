@@ -1,2 +1,2 @@
 # Portfolio-website
-frontend:HTML5,CSS3.],Javascript
+frontend:HTML5,CSS3,Javascript
